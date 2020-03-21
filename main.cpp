@@ -9,9 +9,6 @@ sf::Event Event;
 
 
 
-//sf::RenderWindow * BaseManager::WINdow = &RWINdow;
-
-
 
 class BaseManager
 {
